@@ -112,3 +112,6 @@ console.log(favFood.join(' and '));
 //     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
 const foodAnimals = favFood.concat(animalArray);
 console.log(foodAnimals);
+
+
+
